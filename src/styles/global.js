@@ -1,6 +1,6 @@
 import { createGlobalStyle } from "styled-components"
 
-export const GlobalStyle = createGlobalStyle `
+export const GlobalStyle = createGlobalStyle`
    * {
         margin: 0;
         padding: 0;
@@ -20,6 +20,6 @@ export const GlobalStyle = createGlobalStyle `
         height: 100svh;
         display: flex;
         justify-content: center;
-        align-itens: center;
+        align-items: center;
     }
 `
